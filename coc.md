@@ -25,7 +25,7 @@
 * 任何其他被合理認定在專業上不恰當的行為
 
 
-同時依本社群的特性，增列 [HackingThursday@Taipei 行為準則補充](#HackingThursdayTaipei-行為準則補充) 。
+同時依本社群的特性，增列 [HackingThursday@Taipei 行為準則補充](#hackingthursdaytaipei-行為準則補充) 。
 
 
 ## 執行權責
@@ -43,7 +43,7 @@
 ## 執行
 
 辱罵、騷擾或其他不當行為可向負責執行的社群領導者通報於
-[HackingThursday@Taipei 問題通報管道](#HackingThursdayTaipei-問題通報管道)
+[HackingThursday@Taipei 問題通報管道](#hackingthursdaytaipei-問題通報管道)
 所有投訴都將得到及時和公平的審視和調查。
 
 社群的所有領導者都有義務尊重任一事件通報者的隱私和安全。
@@ -169,3 +169,4 @@ Hacking Thursday 本身是自我組織(self-organization)的社群，由相同�
 | RJ |  rj@rjhsiao.me | `@RJ_Hsiao` | `@RJ Hsiao#0053` |
 | Jeffery | Jeffery.Sac@gmail.com | `@jefferysac` |`@jeffgen0x4#3146` |
 | DreamerC | dreamerwolf.tw@gmail.com | `@dreamerchen` |`@dreamerc#9891` |
+
