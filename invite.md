@@ -22,7 +22,7 @@ Welcome new friends to join our Discord/Telegram (link below), feel free to ask 
 ## 淡水 (Tamsui)
 
 * 時間: 每週四晚上 18:00 至 21:00 (店家營業時間至 21:00)
-* 地點: 安迪艾倫咖啡小館
+* 地點: 黑客茶舖
 * 地址: 新北市淡水區北新路117-2號(Google Map)
 * 費用: 無，須配合場地低消
 * 註: 場地有提供無線上網，電源插座較少，如有需要請通知工作人員，無訂位請自行入座 。
@@ -41,3 +41,5 @@ English:
 - Telegram: <https://t.me/hackingday>
 - Facebook: <https://www.facebook.com/groups/hackingday>
 - Meetup: <https://www.meetup.com/hackingthursday/>
+- An intro for newbie: <https://www.hackingthursday.org/intro_for_newbie>
+- Code of Conduct: <https://www.hackingthursday.org/coc>
