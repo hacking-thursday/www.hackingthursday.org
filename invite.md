@@ -4,7 +4,7 @@
 聚會通告: <http://www.hackingthursday.org/invite>
 
 
-## 台北 (Taipei)
+## 台北 (Taipei) since 2008
 
 * 時間(Time): 每週四晚上 19:30 至 22:00 (every Thursday, GMT+8)
 * 地點(Location): O'tree Cafe 歐樹咖啡（中山區） 
@@ -19,7 +19,7 @@
 Welcome new friends to join our Discord/Telegram (link below), feel free to ask anything on the way to attend the meetup.
 
 
-## 淡水 (Tamsui)
+## 淡水 (Tamsui) since 2020
 
 * 時間: 每週四晚上 18:00 至 21:00 (店家營業時間至 21:00)
 * 地點: 黑客茶舖
