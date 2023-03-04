@@ -5,10 +5,8 @@ HackingThursday 聚會開始時，成員偶爾會用 wiki 類的網頁來紀錄�
 
 - sync.in
 - Hackpad
-- HackMD (現正使用中)
+- HackMD (使用中)
 
 等服務。最新的共筆 URL 如下:
 
 <https://pad.hackingthursday.org>
-
-<iframe src="https://pad.hackingthursday.org" width="100%" height="440px"></iframe>

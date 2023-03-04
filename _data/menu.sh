@@ -3,6 +3,12 @@
 TOP_SRCDIR="$(readlink -f $(dirname $0)/..)"
 
 gen_menu_yml(){
+        cat <<EOD
+- label: Latest
+  items:
+    - name: HackMD
+      link: "https://pad.hackingthursday.org"
+EOD
     for yr in $(seq 2008 $(date +"%Y") | sort -r ) ; do
         cat <<EOD
 - label: $yr
