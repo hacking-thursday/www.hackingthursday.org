@@ -1,5 +1,55 @@
+- label: 2023
+  items:
 - label: 2022
   items:
+    - name: 2022-12-29
+      link: "/weeklynote/2022-12-29"
+    - name: 2022-12-22
+      link: "/weeklynote/2022-12-22"
+    - name: 2022-12-15
+      link: "/weeklynote/2022-12-15"
+    - name: 2022-12-08
+      link: "/weeklynote/2022-12-08"
+    - name: 2022-12-01
+      link: "/weeklynote/2022-12-01"
+    - name: 2022-11-24
+      link: "/weeklynote/2022-11-24"
+    - name: 2022-11-17
+      link: "/weeklynote/2022-11-17"
+    - name: 2022-11-10
+      link: "/weeklynote/2022-11-10"
+    - name: 2022-11-03
+      link: "/weeklynote/2022-11-03"
+    - name: 2022-10-27
+      link: "/weeklynote/2022-10-27"
+    - name: 2022-10-20
+      link: "/weeklynote/2022-10-20"
+    - name: 2022-10-13
+      link: "/weeklynote/2022-10-13"
+    - name: 2022-10-06
+      link: "/weeklynote/2022-10-06"
+    - name: 2022-09-29
+      link: "/weeklynote/2022-09-29"
+    - name: 2022-09-22
+      link: "/weeklynote/2022-09-22"
+    - name: 2022-09-15
+      link: "/weeklynote/2022-09-15"
+    - name: 2022-09-01
+      link: "/weeklynote/2022-09-01"
+    - name: 2022-08-25
+      link: "/weeklynote/2022-08-25"
+    - name: 2022-08-18
+      link: "/weeklynote/2022-08-18"
+    - name: 2022-08-11
+      link: "/weeklynote/2022-08-11"
+    - name: 2022-08-04
+      link: "/weeklynote/2022-08-04"
+    - name: 2022-07-28
+      link: "/weeklynote/2022-07-28"
+    - name: 2022-07-21
+      link: "/weeklynote/2022-07-21"
+    - name: 2022-07-14
+      link: "/weeklynote/2022-07-14"
     - name: 2022-07-07
       link: "/weeklynote/2022-07-07"
     - name: 2022-06-30
