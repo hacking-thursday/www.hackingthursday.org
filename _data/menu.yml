@@ -1,3 +1,7 @@
+- label: Latest
+  items:
+    - name: HackMD
+      link: "https://pad.hackingthursday.org"
 - label: 2023
   items:
 - label: 2022
