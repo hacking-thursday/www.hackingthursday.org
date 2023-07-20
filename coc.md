@@ -169,5 +169,4 @@ Hacking Thursday 本身是自我組織(self-organization)的社群，由相同�
 | RJ |  rj@rjhsiao.me | `@RJ_Hsiao` | `@RJ Hsiao#0053` |
 | Jeffery | Jeffery.Sac@gmail.com | `@jefferysac` |`@jeffgen0x4#3146` |
 | DreamerC | dreamerwolf.tw@gmail.com | `@dreamerchen` |`@dreamerc#9891` |
-| FlyPie (Wei Ji) | c445dj544@gmail.com | `@FlySkyPie` | `@flypie` |
-
+| FlyPie | c445dj544@gmail.com | `@FlySkyPie` | `@flypie` |
