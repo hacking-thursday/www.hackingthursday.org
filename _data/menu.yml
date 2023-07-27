@@ -4,6 +4,54 @@
       link: "https://pad.hackingthursday.org"
 - label: 2023
   items:
+    - name: 2023-06-29
+      link: "/weeklynote/2023-06-29"
+    - name: 2023-06-15
+      link: "/weeklynote/2023-06-15"
+    - name: 2023-06-08
+      link: "/weeklynote/2023-06-08"
+    - name: 2023-06-01
+      link: "/weeklynote/2023-06-01"
+    - name: 2023-05-25
+      link: "/weeklynote/2023-05-25"
+    - name: 2023-05-18
+      link: "/weeklynote/2023-05-18"
+    - name: 2023-05-11
+      link: "/weeklynote/2023-05-11"
+    - name: 2023-05-04
+      link: "/weeklynote/2023-05-04"
+    - name: 2023-04-27
+      link: "/weeklynote/2023-04-27"
+    - name: 2023-04-20
+      link: "/weeklynote/2023-04-20"
+    - name: 2023-04-13
+      link: "/weeklynote/2023-04-13"
+    - name: 2023-04-06
+      link: "/weeklynote/2023-04-06"
+    - name: 2023-03-30
+      link: "/weeklynote/2023-03-30"
+    - name: 2023-03-23
+      link: "/weeklynote/2023-03-23"
+    - name: 2023-03-16
+      link: "/weeklynote/2023-03-16"
+    - name: 2023-03-09
+      link: "/weeklynote/2023-03-09"
+    - name: 2023-03-02
+      link: "/weeklynote/2023-03-02"
+    - name: 2023-02-23
+      link: "/weeklynote/2023-02-23"
+    - name: 2023-02-16
+      link: "/weeklynote/2023-02-16"
+    - name: 2023-02-09
+      link: "/weeklynote/2023-02-09"
+    - name: 2023-02-02
+      link: "/weeklynote/2023-02-02"
+    - name: 2023-01-19
+      link: "/weeklynote/2023-01-19"
+    - name: 2023-01-12
+      link: "/weeklynote/2023-01-12"
+    - name: 2023-01-05
+      link: "/weeklynote/2023-01-05"
 - label: 2022
   items:
     - name: 2022-12-29
