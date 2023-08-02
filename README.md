@@ -2,8 +2,6 @@
 
 ---
 
-<div class="zh_TW">
-
 Hacking Thursday 是由幾位居住於台北地區的自由軟體/開放原碼開發者所發起，每週四晚上會於特定咖啡店聚會。以非會議形式、交換並實做各自提出的想法，輕鬆的會議過程以禮貌、謙遜與尊重的互信態度接納並鼓勵概念發想、發起新計畫、並從開發者的協同開發與經驗分享中互相學習。聚會十分的隨性，不時產生下列分散的行為：
 
  - 討論 網站設計, 電腦網路, 程式設計以及作業系統 ...
@@ -12,12 +10,9 @@ Hacking Thursday 是由幾位居住於台北地區的自由軟體/開放原碼�
 
 聚會與會者都是聽眾，但同時也可能是閃電秀的講者。
 
-</div>
 
 ---
-
-<div class="en_US">
-    
+   
 Hacking Thursday is initiated by a group of free-software/open-source developers who reside in Taipei. They gather every Thursday evening at a specific coffee shop. In a non-meeting format, they exchange and implement their own ideas, with a relaxed meeting process that accepts and encourages conceptual thinking, new project initiation, and learning from each other through collaborative development and experience sharing. The meetings are very casual, and may occasionally result in the following dispersed behaviors:
 
  - Discussion of web, network, programming, system ...
@@ -26,7 +21,6 @@ Hacking Thursday is initiated by a group of free-software/open-source developers
 
 The attendees of the gathering are both listeners and potentially lighting talk speakers.
 
-</div>
     
 ---
 
@@ -62,32 +56,21 @@ The attendees of the gathering are both listeners and potentially lighting talk 
 - 設施: 有 WiFi ，電源插座。
 - 備註: 自行點餐入座，跟店員說是"參加H4聚會"即可 
 
-<div class="zh_TW">
     
 若來訪路上需要協助，都歡迎在 Discord/Telegram 即時線上發問。  
 
-</div>
-
-<div class="en_US">
 
 The newcomers are welcome to ask about the talk in Our Discord and Telegram.
 
-</div>
 
 ### 淡水 (Tamsui) since 2020
-
-<div class="zh_TW">
 
 * 時間: 每個月 **第四個週四晚上** 18:00 至 21:00 (店家營業時間至 21:00)
 * 地點: 黑客茶舖 [![](https://hackmd.io/_uploads/S1mWDwLi2.png =x32)](https://goo.gl/maps/M4Euz5AgbQ1aQHxw5)
 * 地址: 新北市淡水區北新路117-2號
 * 費用: 須配合場地低消
 * 註: 場地有提供無線上網，電源插座較少，如有需要請通知工作人員，無訂位請自行入座 。
-
-</div>
     
-<div class="en_US">
-
 English:
 
 * Time : 18:00 to 21:00 (GMT+8), **every 4th Thursday**.
@@ -96,7 +79,6 @@ English:
 * Consumption : Follow restaurant menu.
 * **Notice: Here're few power sockets, and the host supports the extension cord. If you need, please ask the host. The cafe supports high speed WiFi. It's shared space.**
 
-</div>
 
 ## FAQ (常見問題)
 
