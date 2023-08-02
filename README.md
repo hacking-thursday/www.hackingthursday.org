@@ -29,11 +29,11 @@ The attendees of the gathering are both listeners and potentially lighting talk 
 
 | Social media | URL | QRCode|
 |--|--|--|
-| ![](https://hackmd.io/_uploads/rJ5EJDLo3.png =x60) Discord | <https://discord.gg/s6sKDcEB95> | ![](https://hackmd.io/_uploads/BkDwlv8o3.png =100x) |
-| ![](https://hackmd.io/_uploads/r1IkGPIi3.png =x80) Telegram | <https://t.me/hackingday> | ![](https://hackmd.io/_uploads/rJj2xDLs2.png =100x) |
-| ![](https://hackmd.io/_uploads/r1T1mDUoh.png =x80) Facebook | <https://www.facebook.com/groups/hackingday> | ![](https://hackmd.io/_uploads/SyXrbDIjn.png =100x) |
-| ![](https://hackmd.io/favicon.png =80x) Weekly Notes | https://pad.hackingthursday.org | ![](https://hackmd.io/_uploads/SyHwjDUin.png =100x) |
-| ![](https://matrix.org/assets/favicon.svg =80x) Matrix | https://matrix.to/#/#hackingthursday:matrix.org | ![](https://hackmd.io/_uploads/S1nAqUPs3.png =100x) |
+| <img src="https://hackmd.io/_uploads/rJ5EJDLo3.png" alt="" width="60" /> Discord | <https://discord.gg/s6sKDcEB95> | <img src="https://hackmd.io/_uploads/BkDwlv8o3.png" alt="" width="100" /> |
+| <img src="https://hackmd.io/_uploads/r1IkGPIi3.png" alt="" width="80" /> Telegram | <https://t.me/hackingday> | <img src="https://hackmd.io/_uploads/rJj2xDLs2.png" alt="" width="100" /> |
+| <img src="https://hackmd.io/_uploads/r1T1mDUoh.png" alt="" width="80" /> Facebook | <https://www.facebook.com/groups/hackingday> | <img src="https://hackmd.io/_uploads/SyXrbDIjn.png" alt="" width="100" /> |
+| <img src="https://hackmd.io/favicon.png" alt="" width="80" /> Weekly Notes | https://pad.hackingthursday.org | <img src="https://hackmd.io/_uploads/SyHwjDUin.png" alt="" width="100" /> |
+| <img src="https://matrix.org/assets/favicon.svg" alt="" width="80" /> Matrix | https://matrix.to/#/#hackingthursday:matrix.org | <img src="https://hackmd.io/_uploads/S1nAqUPs3.png" alt="" width="100" /> |
 
 
 | Resources | URL |
@@ -51,7 +51,7 @@ The attendees of the gathering are both listeners and potentially lighting talk 
 
 - 時間(Time): 每週四晚上 19:30 至 22:00 (every Thursday, GMT+8)
 - 地點(Location): O'tree Cafe , 歐樹咖啡（中山區）
-- 地址(Address): 台北市中山區民權東路一段56號 [![](https://hackmd.io/_uploads/S1mWDwLi2.png =x32)](https://goo.gl/maps/MhyaQMXXaE2YHKud6) (Between MRT O-10/Minquan W. Rd. and 0-11/Zhongshan Elementary School)
+- 地址(Address): 台北市中山區民權東路一段56號 [<img src="https://hackmd.io/_uploads/S1mWDwLi2.png" alt="" width="32" />](https://goo.gl/maps/MhyaQMXXaE2YHKud6) (Between MRT O-10/Minquan W. Rd. and 0-11/Zhongshan Elementary School)
 - 費用: 最低消費為一杯飲料 (Minimum cost: one drink per guest)
 - 設施: 有 WiFi ，電源插座。
 - 備註: 自行點餐入座，跟店員說是"參加H4聚會"即可 
@@ -66,7 +66,7 @@ The newcomers are welcome to ask about the talk in Our Discord and Telegram.
 ### 淡水 (Tamsui) since 2020
 
 * 時間: 每個月 **第四個週四晚上** 18:00 至 21:00 (店家營業時間至 21:00)
-* 地點: 黑客茶舖 [![](https://hackmd.io/_uploads/S1mWDwLi2.png =x32)](https://goo.gl/maps/M4Euz5AgbQ1aQHxw5)
+* 地點: 黑客茶舖 [<img src="https://hackmd.io/_uploads/S1mWDwLi2.png" alt="" width="32" />](https://goo.gl/maps/M4Euz5AgbQ1aQHxw5)
 * 地址: 新北市淡水區北新路117-2號
 * 費用: 須配合場地低消
 * 註: 場地有提供無線上網，電源插座較少，如有需要請通知工作人員，無訂位請自行入座 。
@@ -75,7 +75,7 @@ English:
 
 * Time : 18:00 to 21:00 (GMT+8), **every 4th Thursday**.
 * Place : Hacker's casa de cha
-* Address : No. 117-2, Beixin Road, Tamsui District, New Taipei City, 251 (Google Map) [![](https://hackmd.io/_uploads/S1mWDwLi2.png =x32)](https://goo.gl/maps/M4Euz5AgbQ1aQHxw5)
+* Address : No. 117-2, Beixin Road, Tamsui District, New Taipei City, 251 (Google Map) [<img src="https://hackmd.io/_uploads/S1mWDwLi2.png" alt="" width="32" />](https://goo.gl/maps/M4Euz5AgbQ1aQHxw5)
 * Consumption : Follow restaurant menu.
 * **Notice: Here're few power sockets, and the host supports the extension cord. If you need, please ask the host. The cafe supports high speed WiFi. It's shared space.**
 
