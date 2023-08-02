@@ -29,20 +29,20 @@ The attendees of the gathering are both listeners and potentially lighting talk 
 
 | Social media | URL | QRCode|
 |--|--|--|
-| <img src="https://hackmd.io/_uploads/rJ5EJDLo3.png" alt="" width="60" /> Discord | <https://discord.gg/s6sKDcEB95> | <img src="https://hackmd.io/_uploads/BkDwlv8o3.png" alt="" width="100" /> |
+| <img src="https://hackmd.io/_uploads/rJ5EJDLo3.png" alt="" width="80" /> Discord | <https://discord.gg/s6sKDcEB95> | <img src="https://hackmd.io/_uploads/BkDwlv8o3.png" alt="" width="100" /> |
 | <img src="https://hackmd.io/_uploads/r1IkGPIi3.png" alt="" width="80" /> Telegram | <https://t.me/hackingday> | <img src="https://hackmd.io/_uploads/rJj2xDLs2.png" alt="" width="100" /> |
 | <img src="https://hackmd.io/_uploads/r1T1mDUoh.png" alt="" width="80" /> Facebook | <https://www.facebook.com/groups/hackingday> | <img src="https://hackmd.io/_uploads/SyXrbDIjn.png" alt="" width="100" /> |
-| <img src="https://hackmd.io/favicon.png" alt="" width="80" /> Weekly Notes | https://pad.hackingthursday.org | <img src="https://hackmd.io/_uploads/SyHwjDUin.png" alt="" width="100" /> |
-| <img src="https://matrix.org/assets/favicon.svg" alt="" width="80" /> Matrix | https://matrix.to/#/#hackingthursday:matrix.org | <img src="https://hackmd.io/_uploads/S1nAqUPs3.png" alt="" width="100" /> |
+| <img src="https://hackmd.io/favicon.png" alt="" width="80" /> Weekly Notes | <https://pad.hackingthursday.org> | <img src="https://hackmd.io/_uploads/SyHwjDUin.png" alt="" width="100" /> |
+| <img src="https://matrix.org/assets/favicon.svg" alt="" width="80" /> Matrix | <https://matrix.to/#/#hackingthursday:matrix.org> | <img src="https://hackmd.io/_uploads/S1nAqUPs3.png" alt="" width="100" /> |
 
 
 | Resources | URL |
 |--|--|
-| Website | https://www.hackingthursday.org |
-| GitHub | https://github.com/hacking-thursday |
-| HackMD | https://hackmd.io/@h4 | 
-| Meetup | https://www.meetup.com/hackingthursday |
-| Mailing list | https://groups.google.com/group/hackingthursday |
+| Website | <https://www.hackingthursday.org> |
+| GitHub | <https://github.com/hacking-thursday> |
+| HackMD | <https://hackmd.io/@h4> | 
+| Meetup | <https://www.meetup.com/hackingthursday> |
+| Mailing list | <https://groups.google.com/group/hackingthursday> |
 
 
 ## 聚會地點 (Details)
@@ -57,9 +57,7 @@ The attendees of the gathering are both listeners and potentially lighting talk 
 - 備註: 自行點餐入座，跟店員說是"參加H4聚會"即可 
 
     
-若來訪路上需要協助，都歡迎在 Discord/Telegram 即時線上發問。  
-
-
+若來訪路上需要協助，都歡迎在 Discord/Telegram 即時線上發問。   
 The newcomers are welcome to ask about the talk in Our Discord and Telegram.
 
 
