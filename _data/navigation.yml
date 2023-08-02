@@ -1,20 +1,3 @@
-- name: 社群入口
-  link: /
-  dropdown:
-    - name: 線上共筆(每周聚會分享)
-      link: http://pad.hackingthursday.org
-    - name: Discord
-      link: https://discord.gg/s6sKDcEB95
-    - name: Telegram
-      link: https://t.me/hackingday
-    - name: Facebook
-      link: https://www.facebook.com/groups/hackingday
-    - name: Meetup
-      link: https://www.meetup.com/hackingthursday/
-    - name: Google Groups
-      link: https://groups.google.com/group/hackingthursday
-- name: 聚會通告
-  link: /invite
 - name: 聚會手記
   link: /weeklynote
 - name: 系列活動
@@ -117,7 +100,5 @@
       link:  /#
     - name:  SJTUG
       link:  https://sjtug.org/
-- name: FAQ
-  link: /faq
 - name: Code of Conduct
   link: /coc
