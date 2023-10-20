@@ -3,8 +3,6 @@
 **基金、聚會活動更新、及例行事項，目前主要由聚會的值日生們維護。**
 **現任值日生列表，請參考: [routine](routine) 頁面內容。**
 
-Should you want to donate and contribute, feel free to donate @ 31 00054 046 (808 玉山銀行) - [NTD] or @ 0x4e0b5e15f72ffcf464562d672102d1b685c681f8 [ETH]. Please mention your donation information -date:time:amount- to me @flaing12 on telegram, on LINE, or on facebook. Thank you.
-
 ## 發票募集
 
 ### H4 發票募集活動
