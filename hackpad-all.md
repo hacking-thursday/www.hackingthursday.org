@@ -2,182 +2,69 @@
 
 2015-12-18 07:32:26.992332
 
-所有 Hackpad 頁面
-
-<https://hackingthursday.hackpad.com/HDdLPs4VEhK>
-
-安裝 DokuWiki
-
-<https://hackingthursday.hackpad.com/2zQJl06myPU>
-
-H4 VPS 設定變更
-
-<https://hackingthursday.hackpad.com/EqQgDlxv38C>
-
-H4 DNS 設定
-
-<https://hackingthursday.hackpad.com/h3lUzkxkbYK>
-
-H4 服務網址列表
-
-<https://hackingthursday.hackpad.com/WTD9EgxwpZh>
-
-抓福壽螺機器人
-
-<https://hackingthursday.hackpad.com/JAjVIf4HRro>
-
-開一台 VPS
-
-<https://hackingthursday.hackpad.com/BxsaLEFWeRE>
-
-H4 月度報告內容（樣板）
-
-<https://hackingthursday.hackpad.com/UMd2TcsPJ6V>
-
-Skalde 2
-
-<https://hackingthursday.hackpad.com/NCSvI2Do1Hd>
-
-HackingThursday 網站改版
-
-<https://hackingthursday.hackpad.com/vPriSnpJbiP>
-
-SpreadSheet 視覺化
-
-<https://hackingthursday.hackpad.com/v0PF7dG1ULD>
-
-h4 六週年 寫(ㄉㄚˋ)程(ㄕˊ)式(ㄊㄨㄢˊ)黑客松
-
-<https://hackingthursday.hackpad.com/MvbTICGq6kx>
-
-參與自由軟體專案的 101 種方法
-
-<https://hackingthursday.hackpad.com/YBZbyrKE5aI>
-
-H4 書籍即時狀態
-
-<https://hackingthursday.hackpad.com/wvlv0qh7xZd>
-
-2015 H4 7th B'Day
-
-<https://hackingthursday.hackpad.com/LjrdI1biplR>
-
-H4 起源
-
-<https://hackingthursday.hackpad.com/QiGOayeQipS>
-
-貼紙印製收集
-
-<https://hackingthursday.hackpad.com/glUXHi12eNh>
-
-規劃一個社群聚會的空間
-
-<https://hackingthursday.hackpad.com/BERQOrKdLAo>
-
-Git Flow 讀書會 - 第 3 週
-
-<https://hackingthursday.hackpad.com/bC2ojd0A8dX>
-
-Git Flow 讀書會 - 第 4 週
-
-<https://hackingthursday.hackpad.com/lz5P30ADq2C>
-
-Git Flow 讀書會
-
-<https://hackingthursday.hackpad.com/2udexF2pxhX>
-
-Git Flow 讀書會 - 第 2 週
-
-<https://hackingthursday.hackpad.com/0cCKvDeIG4a>
-
-Git Workflows Workshop
-
-<https://hackingthursday.hackpad.com/mghZyuxsSVv>
-
-Git Workflows 讀書會 - 行前準備
-
-<https://hackingthursday.hackpad.com/iL8HmhdhHHA>
-
-Git Flow 讀書會 - 第 1 週
-
-<https://hackingthursday.hackpad.com/4fNyzczg0V7>
-
-Git
-
-<https://hackingthursday.hackpad.com/p0VR3t05H3O>
-
-咖啡館場勘列表
-
-<https://hackingthursday.hackpad.com/sVlC0dwjckl>
-
-社群溝通協作的網路平臺
-
-<https://hackingthursday.hackpad.com/0wdQnPJrh8x>
-
-Open Hardware
-
-<https://hackingthursday.hackpad.com/4ARGqEutqmz>
-
-Open-Source Project Directory Structure
-
-<https://hackingthursday.hackpad.com/OJOc84YeUdb>
-
-2014 TOSSUG x H4 聯合尾牙聚餐 (已結束)
-
-<https://hackingthursday.hackpad.com/vJwpj3HtRCJ>
-
-Release Guide
-
-<https://hackingthursday.hackpad.com/0B4Ck04Ndqj>
-
-sysd
-
-<https://hackingthursday.hackpad.com/sysd>
-
-API Document
-
-<https://hackingthursday.hackpad.com/01iBWounBBm>
-
-暫存內容
-
-<https://hackingthursday.hackpad.com/c8DQnafJGED>
-
-User Guide
-
-<https://hackingthursday.hackpad.com/Zu8ftXmiy9R>
-
-Contribution Guide
-
-<https://hackingthursday.hackpad.com/urBsyczgogL>
-
-H4 Script 補完計畫
-
-<https://hackingthursday.hackpad.com/djJHLRk4nRu>
-
-DeskNearMe APP
-
-<https://hackingthursday.hackpad.com/8FZ1Ji9EMpv>
-
-H4 運作方式
-
-<https://hackingthursday.hackpad.com/Unv366CV6im>
-
-Jenkins Installation and Configuration
-
-<https://hackingthursday.hackpad.com/k1icoCKtaR2>
-
-Docker
-
-<https://hackingthursday.hackpad.com/btVSROkVUyM>
-
-投影&錄影架
-
-<https://hackingthursday.hackpad.com/ls2gMRjVCwI>
-
-Welcome to hackpad - the collaborative notepad
-
-<https://hackingthursday.hackpad.com/IFYJyHFNa1D>
-
-Decentralized Secure Chat
-
-<https://hackingthursday.hackpad.com/vBIGfPNnbxv>
+NOTE: 原資料已無法存取，感謝 [Wayback Machine](https://web.archive.org/web/*/https://hackingthursday.hackpad.com//*) 的備存資料。2023-10-21
+
+- [2014 TOSSUG x H4 聯合尾牙聚餐 (已結束)](https://web.archive.org/web/20170429081616/https://hackingthursday.hackpad.com/2014-TOSSUG-x-H4--vJwpj3HtRCJ)
+- [2015 H4 7th B'Day](https://web.archive.org/web/20170429081615/https://hackingthursday.hackpad.com/2015-H4-7th-BDay-LjrdI1biplR)
+- [2016 H4 新年松 - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081637/https://hackingthursday.hackpad.com/2016-H4--OnuFJwOK3Id)
+- [2016 TOSSUG x H4 聯合春酒聚餐 - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081540/https://hackingthursday.hackpad.com/2016-TOSSUG-x-H4--pyzeA4dqjhq)
+- [API Document](https://web.archive.org/web/20170429081601/https://hackingthursday.hackpad.com/API-Document-01iBWounBBm)
+- [Arduino Nano - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081551/https://hackingthursday.hackpad.com/Arduino-Nano-wylkT4izvly)
+- [Contribution Guide](https://web.archive.org/web/20170429081615/https://hackingthursday.hackpad.com/Contribution-Guide-urBsyczgogL)
+- [Decentralized Secure Chat](https://hackingthursday.hackpad.com/vBIGfPNnbxv)
+- [DeskNearMe APP](https://web.archive.org/web/20170429081557/https://hackingthursday.hackpad.com/DeskNearMe-APP-8FZ1Ji9EMpv)
+- [Docker](https://web.archive.org/web/20170429081541/https://hackingthursday.hackpad.com/Docker-btVSROkVUyM)
+- [ESP8266 - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081701/https://hackingthursday.hackpad.com/ESP8266-wHGAvOqKXhz)
+- [Git Flow 讀書會](https://web.archive.org/web/20170429081610/https://hackingthursday.hackpad.com/Git-Flow-%E8%AE%80%E6%9B%B8%E6%9C%83-2udexF2pxhX)
+- [Git Flow 讀書會 - 第 1 週](https://web.archive.org/web/20170429081531/https://hackingthursday.hackpad.com/Git-Flow-1--4fNyzczg0V7)
+- [Git Flow 讀書會 - 第 2 週](https://web.archive.org/web/20170429081623/https://hackingthursday.hackpad.com/Git-Flow-2--0cCKvDeIG4a)
+- [Git Flow 讀書會 - 第 3 週](https://web.archive.org/web/20170429081553/https://hackingthursday.hackpad.com/Git-Flow-3--bC2ojd0A8dX)
+- [Git Flow 讀書會 - 第 4 週](https://web.archive.org/web/20170429081607/https://hackingthursday.hackpad.com/Git-Flow-4--lz5P30ADq2C)
+- [Git](https://web.archive.org/web/20170429081543/https://hackingthursday.hackpad.com/Git-p0VR3t05H3O)
+- [Git Workflows Workshop](https://web.archive.org/web/20170429081642/https://hackingthursday.hackpad.com/Git-Workflows-Workshop-mghZyuxsSVv)
+- [Git Workflows 讀書會 - 行前準備](https://web.archive.org/web/20170429081650/https://hackingthursday.hackpad.com/Git-Workflows--iL8HmhdhHHA)
+- [H4 DNS 設定](https://web.archive.org/web/20170429081641/https://hackingthursday.hackpad.com/H4-DNS-%E8%A8%AD%E5%AE%9A-h3lUzkxkbYK)
+- [h4-script - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081701/https://hackingthursday.hackpad.com/h4-script-GnaWZWdKJUo)
+- [H4 Script 補完計畫](https://web.archive.org/web/20170429081657/https://hackingthursday.hackpad.com/H4-Script-%E8%A3%9C%E5%AE%8C%E8%A8%88%E7%95%AB-djJHLRk4nRu)
+- [H4 VPS 設定變更](https://web.archive.org/web/20170429081603/https://hackingthursday.hackpad.com/H4-VPS-%E8%A8%AD%E5%AE%9A%E8%AE%8A%E6%9B%B4-EqQgDlxv38C)
+- [h4 六週年 寫(ㄉㄚˋ)程(ㄕˊ)式(ㄊㄨㄢˊ)黑客松](https://web.archive.org/web/20170429081654/https://hackingthursday.hackpad.com/h4--MvbTICGq6kx)
+- [H4 共用硬體 - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081600/https://hackingthursday.hackpad.com/H4--wICbZle2Zfm)
+- [H4 書籍即時狀態 - hackingthursday.hackpad.com](https://web.archive.org/web/20170809020208/https://hackingthursday.hackpad.com/H4--wvlv0qh7xZd)
+- [H4 書籍即時狀態](https://web.archive.org/web/20170429081630/https://hackingthursday.hackpad.com/H4-%E6%9B%B8%E7%B1%8D%E5%8D%B3%E6%99%82%E7%8B%80%E6%85%8B-wvlv0qh7xZd)
+- [H4 月度報告內容（樣板）](https://web.archive.org/web/20170429081633/https://hackingthursday.hackpad.com/H4-%E6%9C%88-%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A%E5%85%A7%E5%AE%B9%E6%A8%A3%E6%9D%BF-UMd2TcsPJ6V)
+- [H4 服務網址列表](https://web.archive.org/web/20170429081636/https://hackingthursday.hackpad.com/H4-%E6%9C%8D%E5%8B%99%E7%B6%B2%E5%9D%80%E5%88%97%E8%A1%A8-WTD9EgxwpZh)
+- [H4 許願池 (To-do list) - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081648/https://hackingthursday.hackpad.com/H4-To-do-list-V2g8iRxF06m)
+- [H4 起源](https://web.archive.org/web/20170429081544/https://hackingthursday.hackpad.com/H4--QiGOayeQipS)
+- [H4 運作方式](https://web.archive.org/web/20170429081612/https://hackingthursday.hackpad.com/H4-%E9%81%8B%E4%BD%9C%E6%96%B9%E5%BC%8F-Unv366CV6im)
+- [H4 階段規畫討論事項 - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081626/https://hackingthursday.hackpad.com/H4--oCfHWptzQ7s)
+- [HackingThursday 網站改版](https://web.archive.org/web/20170429081628/https://hackingthursday.hackpad.com/HackingThursday-%E7%B6%B2%E7%AB%99%E6%94%B9%E7%89%88-vPriSnpJbiP)
+- [Jenkins Installation and Configuration](https://web.archive.org/web/20170429081638/https://hackingthursday.hackpad.com/Jenkins-Installation-and-Configuration-k1icoCKtaR2)
+- [LaFonera 2100 - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081524/https://hackingthursday.hackpad.com/LaFonera-2100-DzOVX1yLNk6)
+- [LinkIt Smart 7688 Duo - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081535/https://hackingthursday.hackpad.com/LinkIt-Smart-7688-Duo-Rv0FJpkl0eE)
+- [Linux 學習入門 - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081647/https://hackingthursday.hackpad.com/Linux--WWUjkNvpukW)
+- [Local Multimedia Sharing System - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081556/https://hackingthursday.hackpad.com/Local-Multimedia-Sharing-System-ksyUy9FpMhI)
+- [NodeMcu - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081549/https://hackingthursday.hackpad.com/NodeMcu-q9TQnphIMx8)
+- [Open Hardware](https://web.archive.org/web/20170429081642/https://hackingthursday.hackpad.com/Open-Hardware-4ARGqEutqmz)
+- [Open-Source Project Directory Structure](https://web.archive.org/web/20170429081653/https://hackingthursday.hackpad.com/Open-Source-Project-Directory-Structure-OJOc84YeUdb)
+- [psage - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081532/https://hackingthursday.hackpad.com/psage-6ql1ZuABT5I)
+- [Raspberry Pi - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081524/https://hackingthursday.hackpad.com/Raspberry-Pi-jlq0NuPzb4G)
+- [Release Guide](https://web.archive.org/web/20170429081633/https://hackingthursday.hackpad.com/Release-Guide-0B4Ck04Ndqj)
+- [Rhythm Of The Weather - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081548/https://hackingthursday.hackpad.com/Rhythm-Of-The-Weather-Pujq8IQNFZS)
+- [Skalde 2](https://web.archive.org/web/20170429081621/https://hackingthursday.hackpad.com/Skalde-2-NCSvI2Do1Hd)
+- [SpreadSheet 視覺化](https://web.archive.org/web/20170429081552/https://hackingthursday.hackpad.com/SpreadSheet-%E5%90%8D%E5%96%AE%E8%B3%87%E6%96%99%E6%9F%A5%E8%A9%A2%E8%A6%96%E8%A6%BA%E5%8C%96-v0PF7dG1ULD)
+- [sysd](https://hackingthursday.hackpad.com/sysd) (lost)
+- [USB to TTL - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081621/https://hackingthursday.hackpad.com/USB-to-TTL-wgmwWsRg58Y)
+- [User Guide](https://web.archive.org/web/20170429081646/https://hackingthursday.hackpad.com/User-Guide-Zu8ftXmiy9R)
+- [Welcome to hackpad - the collaborative notepad](https://web.archive.org/web/20170429081528/https://hackingthursday.hackpad.com/Welcome-to-hackpad-the-collaborative-notepad-IFYJyHFNa1D)
+- [參與自由軟體專案的 101 種方法](https://web.archive.org/web/20170429081651/https://hackingthursday.hackpad.com/-101--YBZbyrKE5aI)
+- [咖啡館場勘列表](https://web.archive.org/web/20170429081557/https://hackingthursday.hackpad.com/%E5%92%96%E5%95%A1%E9%A4%A8%E5%A0%B4%E5%8B%98%E5%88%97%E8%A1%A8-sVlC0dwjckl)
+- [安裝 DokuWiki](https://web.archive.org/web/20170429081536/https://hackingthursday.hackpad.com/%E5%AE%89%E8%A3%9D-DokuWiki-2zQJl06myPU)
+- [所有 Hackpad 頁面](https://web.archive.org/web/20170429081530/https://hackingthursday.hackpad.com/%E6%89%80%E6%9C%89-Hackpad-%E9%A0%81%E9%9D%A2-HDdLPs4VEhK)
+- [抓福壽螺機器人](https://web.archive.org/web/20170429081539/https://hackingthursday.hackpad.com/%E6%8A%93%E7%A6%8F%E5%A3%BD%E8%9E%BA%E6%A9%9F%E5%99%A8%E4%BA%BA-JAjVIf4HRro)
+- [投影&錄影架](https://web.archive.org/web/20170429081619/https://hackingthursday.hackpad.com/%E6%8A%95%E5%BD%B1%E9%8C%84%E5%BD%B1%E6%9E%B6-ls2gMRjVCwI)
+- [暫存內容](https://web.archive.org/web/20170429081548/https://hackingthursday.hackpad.com/%E6%9A%AB%E5%AD%98%E5%85%A7%E5%AE%B9-c8DQnafJGED)
+- [田中園菜單 - hackingthursday.hackpad.com](https://web.archive.org/web/20170429081625/https://hackingthursday.hackpad.com/xiF0Af278lg)
+- [社群溝通協作的網路平臺](https://web.archive.org/web/20170429081629/https://hackingthursday.hackpad.com/%E7%A4%BE%E7%BE%A4%E6%BA%9D%E9%80%9A%E5%8D%94%E4%BD%9C%E7%9A%84%E7%B6%B2%E8%B7%AF%E5%B9%B3%E8%87%BA-0wdQnPJrh8x)
+- [規劃一個社群聚會的空間](https://web.archive.org/web/20170429081534/https://hackingthursday.hackpad.com/%E8%A6%8F%E5%8A%83%E4%B8%80%E5%80%8B%E7%A4%BE%E7%BE%A4%E8%81%9A%E6%9C%83%E7%9A%84%E7%A9%BA%E9%96%93-BERQOrKdLAo)
+- [貼紙印製收集](https://web.archive.org/web/20170429081529/https://hackingthursday.hackpad.com/glUXHi12eNh)
+- [開一台 VPS](https://web.archive.org/web/20170429081606/https://hackingthursday.hackpad.com/-VPS-BxsaLEFWeRE)
