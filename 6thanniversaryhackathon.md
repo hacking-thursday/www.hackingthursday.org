@@ -20,6 +20,8 @@
 * hychen
 * Rex
 
+source: [Hacking Thursday | Facebook](https://www.facebook.com/groups/161774120511261/?multi_permalinks=789479194407414)
+
 ## 時間
 
 9/13, 14 [投票結果](http://doodle.com/v3zciugtw6nz8kic)

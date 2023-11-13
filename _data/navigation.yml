@@ -18,14 +18,10 @@
 - name: Wiki
   link: /*
   dropdown:
-    - name: H4 六週年黑客松
-      link: /6thanniversaryhackathon
     - name: H4 名片
       link: /namecard
     - name: Todo
       link: /todo
-    - name: 2013 TOSSUG x H4 聯合尾牙聚餐 (已結束)
-      link: /2013-years-end-party
     - name: Chromecast
       link: /chromecast
     - name: Issue
@@ -73,14 +69,8 @@
   dropdown:
     - name: 2012紀念衫(已結束)
       link: /h4t-shirt2012
-    - name: 2013 TOSSUG / H4 聯合尾牙聚餐 (已結束)
-      link: /2013-years-end-party
     - name: H4投影機募資(已達成)
       link: /h4projector
-    - name: H4 六週年黑客松
-      link: /6thanniversaryhackathon
-    - name: 2014 TOSSUG / H4 尾牙聚餐 (已結束)
-      link: /2014-years-end-party
     - name: 值日生區
       link: /routine
 - name: 友站
