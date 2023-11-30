@@ -20,26 +20,24 @@
   dropdown:
     - name: H4 名片
       link: /namecard
-    - name: Todo
-      link: /todo
     - name: Chromecast
-      link: /chromecast
+      link: /2013-10-02_chromecast
     - name: Issue
-      link: /issue
+      link: /2013-07-29_issue
     - name: Yahoo! Tech Conference (YTC)
-      link: /ytc2013sep
+      link: /2013-08-30_ytc2013sep
     - name: Nearest
-      link: /nearest
+      link: /2013-08-30_nearest
     - name: H4 無線投影 (Wireless Display)
-      link: /h4wd
+      link: /2013-08-23_h4wd
     - name: H4 LOGO
       link: /logo
     - name: H4 投影機募資活動(已達成)
-      link: /h4projector
+      link: /2013-08-06_h4projector
     - name: Ending sharing & 聚會手記
       link: /h4note
     - name: HackingThursday T-Shirt 2012(已結束)
-      link: /h4t-shirt2012
+      link: /2011-08-07_h4t-shirt2012
     - name: 計劃發想
       link: /pooridea
     - name: 網聚地點
@@ -49,19 +47,19 @@
     - name: 2009 Yahoo hacking day 心得分享
       link: /yahoohackingdaythoughts
     - name: 編輯器小技巧
-      link: /editors
+      link: /2012-02-05_editors
     - name: Arduino MEGA ADK
-      link: /arduino-mega-adk
+      link: /2011-09-07_arduino-mega-adk
     - name: HackingHoliday
       link: /hackingholiday
     - name: Kross
-      link: /kross
+      link: /2010-08-27_kross
     - name: Console 應用程式工具整理
-      link: /consoleenterprise
+      link: /2009-10-29_consoleenterprise
     - name: pkgbzr (Package Bazaar)
-      link: /pkgbzr
+      link: /2009-10-08_pkgbzr
     - name: Skalde
-      link: /skalde
+      link: /2009-10-08_skalde
     - name: Projects
       link: /projects
 - name: H4基金
