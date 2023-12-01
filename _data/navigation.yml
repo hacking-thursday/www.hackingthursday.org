@@ -7,8 +7,6 @@
   dropdown:
     - name: 主相簿
       link: https://photos.hackingthursday.org/
-    - name: Dropbox相簿
-      link: https://www.dropbox.com/sh/ffup9zc89i4k9jl/E5dJ-j-cVr/H4%20Album
     - name: Flickr相簿
       link: http://www.flickr.com/groups/hackingthursday/
     - name: Facebook相簿
