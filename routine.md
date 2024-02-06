@@ -14,7 +14,7 @@
 | Walter            | 2015 年 8 月  |                                                                   |
 | Rudi              | 2015 年 8 月  |                                                                   |
 | Jeffery Sac Chang | 2021 年 1 月  |                                                                   |
-| RJ Hsiao          | 2021 年 1 月 |                                                                   |
+| RJ Hsiao          | 2021 年 1 月  | 2024 年 1 月 ～ 現今                                              |
 | DreamerC          | 2022 年 3 月  |                                                                   |
-| FlySkyPie         | 2023 年 6 月  |                                                                   |
+| FlySkyPie         | 2023 年 6 月  | 2024 年 1 月 ～ 現今                                              |
 
