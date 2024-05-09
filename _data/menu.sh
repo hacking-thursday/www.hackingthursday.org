@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Description: Read files from `/weeklynote` and update `/_data/menu.yml`
+# Usage: make update_menu
 
 TOP_SRCDIR="$(readlink -f $(dirname $0)/..)"
 
