@@ -2,12 +2,15 @@ title: Hacking Thursday
 remote_theme: chrisrhymes/bulma-clean-theme
 livereload: true
 defaults:
-  -
-    scope:
+  - scope:
       path: "weeklynote/*" # an empty string here means all files in the project
     values:
       show_sidebar: false
       menubar: menu
-
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  style: compressed
