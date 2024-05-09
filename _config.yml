@@ -8,3 +8,6 @@ defaults:
     values:
       show_sidebar: false
       menubar: menu
+
+plugins:
+  - jekyll-feed
