@@ -1,5 +1,5 @@
 title: Hacking Thursday
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.13.3
 livereload: true
 defaults:
   - scope:
