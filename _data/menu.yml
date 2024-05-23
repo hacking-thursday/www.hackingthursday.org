@@ -6,6 +6,18 @@
   items:
 - label: 2023
   items:
+    - name: 2023-09-14
+      link: "/weeklynote/2023-09-14"
+    - name: 2023-09-07
+      link: "/weeklynote/2023-09-07"
+    - name: 2023-08-31
+      link: "/weeklynote/2023-08-31"
+    - name: 2023-08-24
+      link: "/weeklynote/2023-08-24"
+    - name: 2023-08-17
+      link: "/weeklynote/2023-08-17"
+    - name: 2023-08-10
+      link: "/weeklynote/2023-08-10"
     - name: 2023-08-03
       link: "/weeklynote/2023-08-03"
     - name: 2023-07-27
