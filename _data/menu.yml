@@ -4,8 +4,26 @@
       link: "https://pad.hackingthursday.org"
 - label: 2024
   items:
+    - name: 2024-01-18
+      link: "/weeklynote/2024-01-18"
+    - name: 2024-01-11
+      link: "/weeklynote/2024-01-11"
+    - name: 2024-01-04
+      link: "/weeklynote/2024-01-04"
 - label: 2023
   items:
+    - name: 2023-12-28
+      link: "/weeklynote/2023-12-28"
+    - name: 2023-12-21
+      link: "/weeklynote/2023-12-21"
+    - name: 2023-12-14
+      link: "/weeklynote/2023-12-14"
+    - name: 2023-12-07
+      link: "/weeklynote/2023-12-07"
+    - name: 2023-11-30
+      link: "/weeklynote/2023-11-30"
+    - name: 2023-11-23
+      link: "/weeklynote/2023-11-23"
     - name: 2023-11-16
       link: "/weeklynote/2023-11-16"
     - name: 2023-11-09
