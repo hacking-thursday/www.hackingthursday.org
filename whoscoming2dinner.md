@@ -146,7 +146,7 @@ A: 我們會事前詢問講者, 由講者決定授權方式或選擇不發佈或
 | Mat         | matlinuxer2@gmail.com | 聯絡窗口 |
 | 幸延 (yan)  | a0726h77@gmail.com    | 聯絡窗口 |
 | Walter Wang | csw.dawn@gmail.com    |          |
-| Rudi Peng   | flaing12@gmail.com    |          |
+| Rudi Peng   |                       |          |
 | Trista      | chu7733@gmail.com     |          |
 
 **~~招募中~~**，若您有意願協助參與任何活動事務，歡迎和我們聯繫。
