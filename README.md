@@ -31,9 +31,10 @@ The attendees of the gathering are both listeners and potentially lighting talk 
 |--|--|--|
 | <img src="https://hackmd.io/_uploads/rJ5EJDLo3.png" alt="" width="80" /> Discord | <https://discord.gg/s6sKDcEB95> | <img src="https://hackmd.io/_uploads/BkDwlv8o3.png" alt="" width="100" /> |
 | <img src="https://hackmd.io/_uploads/r1IkGPIi3.png" alt="" width="80" /> Telegram | <https://t.me/hackingday> | <img src="https://hackmd.io/_uploads/rJj2xDLs2.png" alt="" width="100" /> |
-| <img src="https://hackmd.io/_uploads/r1T1mDUoh.png" alt="" width="80" /> Facebook | <https://www.facebook.com/groups/hackingday> | <img src="https://hackmd.io/_uploads/SyXrbDIjn.png" alt="" width="100" /> |
+| <img src="https://hackmd.io/_uploads/r1T1mDUoh.png" alt="" width="80" /> Facebook | <https://www.facebook.com/groups/hackingthursday> | <img src="https://hackmd.io/_uploads/HJva7j96C.png" alt="" width="100" /> |
 | <img src="https://hackmd.io/favicon.png" alt="" width="80" /> Weekly Notes | <https://pad.hackingthursday.org> | <img src="https://hackmd.io/_uploads/SyHwjDUin.png" alt="" width="100" /> |
 | <img src="https://matrix.org/assets/favicon.svg" alt="" width="80" /> Matrix | <https://matrix.to/#/#hackingthursday:matrix.org> | <img src="https://hackmd.io/_uploads/S1nAqUPs3.png" alt="" width="100" /> |
+
 
 
 | Resources | URL |
