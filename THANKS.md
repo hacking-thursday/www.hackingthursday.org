@@ -44,6 +44,11 @@
 [共筆目錄 Hacking Thursday - HackMD](https://hackmd.io/@h4/index)
 
 
+## 2020-11-20
+
+感謝 Rudi 和 yan 維護 2015/10 至 2020/11 的 H4 公基金賬務
+
+
 ## 2015-10-02
 
 感謝 Rudi 接手 H4 公基金賬務
