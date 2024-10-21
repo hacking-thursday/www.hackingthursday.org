@@ -9,8 +9,14 @@ defaults:
       menubar: menu
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
 sass:
   style: compressed
+feed:
+  path: /feed/index.xml
+  categories:
+    - weeklynote
+    - blog
