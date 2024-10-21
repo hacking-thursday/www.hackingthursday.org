@@ -1,2 +1,8 @@
-update_menu:
-	(cd _data; ./menu.sh)
+build:
+	./.make.sh build
+
+build-local:
+	./.make.sh build-local
+
+help:
+	@./.make.sh help

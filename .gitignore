@@ -1,1 +1,7 @@
+/.bundle/
+/Gemfile.lock
+/.jekyll-metadata
+/_posts/
+/_data/menu.yml
 /__pycache__/
+/_site/
