@@ -65,6 +65,8 @@ function process_weeklynotes() {
 				show_sidebar: false
 				menubar: menu
 				category: weeklynote
+				redirect_from:
+				  - /$date_str
 				---
 			EOD
 			dst_fpath="$ROOT_DIR/_posts/${date_str}-聚會手記.md"
