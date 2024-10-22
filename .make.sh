@@ -47,7 +47,7 @@ function process_weeklynotes() {
 	tmpd=$(mktemp -d)
 	(
 		cd $ROOT_DIR || exit
-		find weeklynote/ -maxdepth 1 -type f -name "*.md" | while read -r line; do
+		find weeklynote/ -maxdepth 1 -type f -name "*.md" | sort | while read -r line; do
 			echo "Processing $line ..."
 			fpath="$line"
 			date_str=$(echo "$fpath" | sed -e "s/^.*weeklynote\///g" -e "s/\.md$//g")
@@ -83,7 +83,6 @@ build)
 	regenerate_menu_yml >$ROOT_DIR/_data/menu.yml
 
 	process_weeklynotes
-	exit
 	;;
 
 build-local)
