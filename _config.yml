@@ -4,6 +4,7 @@ livereload: true
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
