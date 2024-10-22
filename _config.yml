@@ -14,3 +14,7 @@ feed:
   categories:
     - weeklynote
     - blog
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
