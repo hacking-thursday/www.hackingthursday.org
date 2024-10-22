@@ -1,3 +1,7 @@
+---
+show_sidebar: false
+menubar: menu
+---
 # weeklynote
 
 HackingThursday 聚會開始時，成員偶爾會用 wiki 類的網頁來紀錄一些討論片段(關鍵字、URL、...)。
