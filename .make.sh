@@ -58,15 +58,15 @@ function process_weeklynotes() {
 			}
 			cat >$tmpd/front_matter.txt <<-EOD
 				---
-				title: "$date_str 聚會手記"
-				date: $date_str
+				title: "${date_str} 聚會手記"
+				date: ${date_str}
 				layout: post
-				permalink: /weeklynote/$date_str
+				permalink: /weeklynote/${date_str}/
 				show_sidebar: false
 				menubar: menu
 				category: weeklynote
 				author: community
-				id: weeklynote_${date_str}
+				slug: "weeklynote_${date_str}"
 				redirect_from:
 				  - /$date_str
 				---
