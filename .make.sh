@@ -66,6 +66,7 @@ function process_weeklynotes() {
 				menubar: menu
 				category: weeklynote
 				author: community
+				id: weeklynote_$date
 				redirect_from:
 				  - /$date_str
 				---
