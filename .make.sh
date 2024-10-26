@@ -58,7 +58,7 @@ EOD
 			item=$(cat "$fpath" | grep -e "^title: " | head -1 | sed -e 's/^title: "//g' -e 's/"$//g')
 			link=$(cat "$fpath" | grep -e "^permalink: " | head -1 | sed -e 's/^permalink: //g')
 			cat <<EOD
-    - name: $item
+    - name: "$item"
       link: "$link"
 EOD
 		done
