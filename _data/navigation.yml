@@ -1,5 +1,7 @@
 - name: 聚會手記
   link: /weeklynote
+- name: Blog
+  link: /blog
 - name: 系列活動
   link: /events
 - name: 聚會照片
