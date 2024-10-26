@@ -30,6 +30,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Install yq package
+        uses: mikefarah/yq@master
       - name: Run custom scripts
         run: |-
           echo "Run custom scripts"
