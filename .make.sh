@@ -144,7 +144,7 @@ function process_blogs() {
 	tmpd=$(mktemp -d)
 	(
 		cd $ROOT_DIR || exit
-		find blog/ -maxdepth 1 -type f -name "*.md" | sort | while read -r line; do
+		find blog/ -maxdepth 1 -type f -name "*.md" | grep -v -e "index.md" | sort | while read -r line; do
 			echo "Processing $line ..."
 			fpath="$line"
 			title=$(cat "$fpath" | remove_frontmatter | head -1 | grep -e "^#\s\+" | sed -e "s/^#\s*//g")
