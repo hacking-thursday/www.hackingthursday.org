@@ -2,6 +2,7 @@
 /Gemfile.lock
 /.jekyll-metadata
 /_posts/
+/_data/menu_blog.yml
 /_data/menu.yml
 /__pycache__/
 /_site/

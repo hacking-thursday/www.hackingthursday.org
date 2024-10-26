@@ -43,6 +43,29 @@ EOD
 	done
 }
 
+function regenerate_blog_menu_yml() {
+	for yr in $(seq 2008 $(date +"%Y") | sort -r); do
+		cat <<EOD
+- label: $yr
+  items:
+EOD
+
+		(
+			cd $ROOT_DIR
+			find _posts/ -type f -name "*-blog.md" | xargs grep -e "^permalink: "
+		) | grep -e "$yr-" | sort -k2 -n -r | while read -r line; do
+			fpath=$(echo "$line" | cut -d: -f1)
+			item=$(cat "$fpath" | grep -e "^title: " | head -1 | sed -e 's/^title: "//g' -e 's/"$//g')
+			link=$(cat "$fpath" | grep -e "^permalink: " | head -1 | sed -e 's/^permalink: //g')
+			cat <<EOD
+    - name: $item
+      link: "$link"
+EOD
+		done
+
+	done
+}
+
 # usage: merge_frontmatter src.md to_add.yml output.md
 function merge_frontmatter() {
 	src="$1"
@@ -160,6 +183,8 @@ function process_blogs() {
 				title: "${title}"
 				layout: post
 				permalink: /blog/${date_str}_${date_epoch}/
+				show_sidebar: false
+				menubar: menu_blog
 				category: blog
 				slug: "blog_${date_str}_${date_epoch}"
 				redirect_from:
@@ -185,6 +210,10 @@ build)
 
 	# Regenerate weeklynote
 	process_weeklynotes
+
+	# Regenerate blog's sidebar listing
+	# Scan `/_posts/*-blog.md` files and update `/_data/menu_blog.yml`
+	regenerate_blog_menu_yml >$ROOT_DIR/_data/menu_blog.yml
 	;;
 
 build-local)
