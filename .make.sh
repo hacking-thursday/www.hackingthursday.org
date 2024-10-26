@@ -159,7 +159,7 @@ function process_blogs() {
 			cat >$tmpd/front_matter.yml <<-EOD
 				title: "${title}"
 				layout: post
-				permalink: /blog/${date_str}_${title_urlencode}/
+				permalink: /blog/${date_str}_${date_epoch}/
 				category: blog
 				slug: "blog_${date_str}_${date_epoch}"
 				redirect_from:
