@@ -145,7 +145,7 @@ function process_weeklynotes() {
 				date: ${date_str}
 				layout: post
 				permalink: /weeklynote/${date_str}/
-				show_sidebar: false
+				show_sidebar: true
 				menubar: menu
 				category: weeklynote
 				author: community
@@ -183,7 +183,7 @@ function process_blogs() {
 				title: "${title}"
 				layout: post
 				permalink: /blog/${date_str}_${date_epoch}/
-				show_sidebar: false
+				show_sidebar: true
 				menubar: menu_blog
 				category: blog
 				slug: "blog_${date_str}_${date_epoch}"
