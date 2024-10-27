@@ -36,7 +36,7 @@ EOD
 			item=${item%.md}
 			cat <<EOD
     - name: $item
-      link: "/weeklynote/$item"
+      link: "/weeklynote/$item/"
 EOD
 		done
 
