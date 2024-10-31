@@ -1,6 +1,7 @@
 title: Hacking Thursday
 remote_theme: chrisrhymes/bulma-clean-theme@v0.13.3
 livereload: true
+incremental: true
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
