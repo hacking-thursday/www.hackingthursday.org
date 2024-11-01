@@ -18,6 +18,10 @@
 - name: Wiki
   link: /*
   dropdown:
+    - name: 2024-08-24 HITCON Day2
+      link: /2024-08-24_HITCON_Day2
+    - name: 2024-08-23 HITCON Day1
+      link: /2024-08-23_HITCON_Day1
     - name: H4 名片
       link: /namecard
     - name: Chromecast
