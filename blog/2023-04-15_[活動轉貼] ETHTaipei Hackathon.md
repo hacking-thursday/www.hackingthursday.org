@@ -18,7 +18,7 @@ date: 2023-04-15T18:27:00+08:00
 	- 報名網頁: [ETHTaipei Hackathon by ETHTaipei - Overview @ TAIKAI](https://taikai.network/ethtaipei/hackathons/hackathon)
 	- 報名方式
 		- 1. 先 Login (可用 GitHub/Google/Microsoft/LinkedIn 帳號登入)
-		- 2. 按 "Join Hackthon" 的按鈕，並填表 submit。[表單預覽如圖](https://i.imgur.com/rkOln6R.png)。 (註: 後半部的表格非必填)
+		- 2. 按 "Join Hackathon" 的按鈕，並填表 submit。[表單預覽如圖](https://i.imgur.com/rkOln6R.png)。 (註: 後半部的表格非必填)
 		- 3. 報名成功? (活動說明有提到挑選申請人的部分，但實測好像是 submit 完就顯示爲 "PARTICIPANT" 了)
 - 參加的形式似乎偏向以個體爲單位，然後在過程中尋找題目並組成團隊。和以前其他以隊伍爲單位，以已經想好的題目去報名的方式不同。
 - 活動方有附上 [Discord](http://discord.gg/bVHFDWTzpQ) ，有問題可即時提問。
