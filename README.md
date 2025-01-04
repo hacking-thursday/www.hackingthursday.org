@@ -46,7 +46,7 @@ The attendees of the gathering are both listeners and potentially lighting talk 
 | Mailing list | <https://groups.google.com/group/hackingthursday> |
 
 
-## 聚會地點 (Details)
+## 聚會地點 Place
 
 ### 台北 (Taipei) since 2008
 
@@ -62,50 +62,22 @@ The attendees of the gathering are both listeners and potentially lighting talk 
 The newcomers are welcome to ask about the talk in Our Discord and Telegram.
 
 
-### 淡水 (Tamsui) since 2020
+## 常見問題 FAQ
 
-* 時間: 每個月 **第四個週四晚上** 18:00 至 21:00 (店家營業時間至 21:00)
-* 地點: 黑客茶舖 [<img src="https://hackmd.io/_uploads/S1mWDwLi2.png" alt="" width="32" />](https://goo.gl/maps/M4Euz5AgbQ1aQHxw5)
-* 地址: 新北市淡水區北新路117-2號
-* 費用: 須配合場地低消
-* 註: 場地有提供無線上網，電源插座較少，如有需要請通知工作人員，無訂位請自行入座 。
-    
-English:
-
-* Time : 18:00 to 21:00 (GMT+8), **every 4th Thursday**.
-* Place : Hacker's casa de cha
-* Address : No. 117-2, Beixin Road, Tamsui District, New Taipei City, 251 (Google Map) [<img src="https://hackmd.io/_uploads/S1mWDwLi2.png" alt="" width="32" />](https://goo.gl/maps/M4Euz5AgbQ1aQHxw5)
-* Consumption : Follow restaurant menu.
-* **Notice: Here're few power sockets, and the host supports the extension cord. If you need, please ask the host. The cafe supports high speed WiFi. It's shared space.**
-
-
-## FAQ (常見問題)
-
-常用文件:
+### 入門介紹 Intro
 
 - 給新訪客 (For newcomer): <https://www.hackingthursday.org/intro_for_newbie>
 - 參與者公約 (Code of Conduct): <https://www.hackingthursday.org/coc>
 
 
-### What topic for the coffee talk in 2023? (今年主要活動內容)
+### Q: 聚會討論的主題是什麼? What's the topic?
 
-Our topics include (but are not limited to) the following:
+我們這裡沒有固定主題，而是參與者“自帶主題”。 大家會邊吃邊聊最近玩了那些東西，自由交流心得跟經驗。
 
-- Software and Hardware development
-    - Linux (Ubuntu, Red Hat, Arch ...)
-    - Programing (C, Javascript, Python, Rust ...)
-    - Network (OpenWRT, DDWRT, ASUSWRT ...)
-    - IOT (ESPHome, Home Assistant, Smart Plug ...)
-    - Legacy hardware/software reuse
-- Electronic Art and Game development
-- Maker and DIY
-    - 3D Printing
+具體內容可參閱近期的聚會筆記:
 
-
-### Here are recent topics:
-
-- Latest notes: <https://pad.hackingthursday.org>
-- Notes in the past: <https://www.hackingthursday.org/weeklynote/>
+- <https://pad.hackingthursday.org>
+- <https://www.hackingthursday.org/weeklynote/>
 
 <!--
 
