@@ -1,5 +1,5 @@
 - discord.svg , from: https://discord.com/branding
-- facebook.png , from: https://about.meta.com/brand/resources/facebook/logo/
+- facebook.svg, from: https://en.wikipedia.org/wiki/File:Facebook_f_logo_(2021).svg
 - googlemap.svg , from: https://en.m.wikipedia.org/wiki/File:Google_Maps_icon_%282015-2020%29.svg
 - telegram.svg , from: https://telegram.org/tour/screenshots
 - qrcode_discord.svg , from: https://www.qrcode-monkey.com/
