@@ -1,0 +1,9 @@
+- discord.svg , from: https://discord.com/branding
+- facebook.png , from: https://about.meta.com/brand/resources/facebook/logo/
+- googlemap.svg , from: https://en.m.wikipedia.org/wiki/File:Google_Maps_icon_%282015-2020%29.svg
+- telegram.svg , from: https://telegram.org/tour/screenshots
+- qrcode_discord.svg , from: https://www.qrcode-monkey.com/
+- qrcode_facebook.svg , from: https://www.qrcode-monkey.com/
+- qrcode_matrix.svg , from: https://www.qrcode-monkey.com/
+- qrcode_pad.svg , from: https://www.qrcode-monkey.com/
+- qrcode_telegram.svg , from: https://www.qrcode-monkey.com/
