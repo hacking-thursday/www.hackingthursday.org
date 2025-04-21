@@ -29,11 +29,11 @@ The attendees of the gathering are both listeners and potentially lighting talk 
 
 | Social media | URL | QRCode|
 |--|--|--|
-| <img src="/img/discord.svg" alt="" width="80" /> Discord | <https://discord.gg/s6sKDcEB95> | <img src="/img/qrcode_discord.svg" alt="" width="100" /> |
-| <img src="/img/telegram.svg" alt="" width="80" /> Telegram | <https://t.me/hackingday> | <img src="/img/qrcode_telegram.svg" alt="" width="100" /> |
-| <img src="/img/facebook.png" alt="" width="80" /> Facebook | <https://www.facebook.com/groups/hackingthursday> | <img src="/img/qrcode_facebook.svg" alt="" width="100" /> |
-| <img src="https://hackmd.io/favicon.png" alt="" width="80" /> Weekly Notes | <https://pad.hackingthursday.org> | <img src="/img/qrcode_pad.svg" alt="" width="100" /> |
-| <img src="https://matrix.org/assets/favicon.svg" alt="" width="80" /> Matrix | <https://matrix.to/#/#hackingthursday:matrix.org> | <img src="/img/qrcode_matrix.svg" alt="" width="100" /> |
+| <img src="/static/img/discord.svg" alt="" width="80" /> Discord | <https://discord.gg/s6sKDcEB95> | <img src="/static/img/qrcode_discord.svg" alt="" width="100" /> |
+| <img src="/static/img/telegram.svg" alt="" width="80" /> Telegram | <https://t.me/hackingday> | <img src="/static/img/qrcode_telegram.svg" alt="" width="100" /> |
+| <img src="/static/img/facebook.png" alt="" width="80" /> Facebook | <https://www.facebook.com/groups/hackingthursday> | <img src="/static/img/qrcode_facebook.svg" alt="" width="100" /> |
+| <img src="https://hackmd.io/favicon.png" alt="" width="80" /> Weekly Notes | <https://pad.hackingthursday.org> | <img src="/static/img/qrcode_pad.svg" alt="" width="100" /> |
+| <img src="https://matrix.org/assets/favicon.svg" alt="" width="80" /> Matrix | <https://matrix.to/#/#hackingthursday:matrix.org> | <img src="/static/img/qrcode_matrix.svg" alt="" width="100" /> |
 
 
 
@@ -52,7 +52,7 @@ The attendees of the gathering are both listeners and potentially lighting talk 
 
 - 時間(Time): 每週四晚上 19:30 至 22:00 (every Thursday, GMT+8)
 - 地點(Location): O'tree Cafe , 歐樹咖啡（中山區）
-- 地址(Address): 台北市中山區民權東路一段56號 [<img src="https://hackmd.io/_uploads/S1mWDwLi2.png" alt="" width="32" />](https://goo.gl/maps/MhyaQMXXaE2YHKud6) (Between MRT O-10/Minquan W. Rd. and 0-11/Zhongshan Elementary School)
+- 地址(Address): 台北市中山區民權東路一段56號 [<img src="/static/img/googlemap.svg" alt="" width="32" />](https://goo.gl/maps/MhyaQMXXaE2YHKud6) (Between MRT O-10/Minquan W. Rd. and 0-11/Zhongshan Elementary School)
 - 費用: 最低消費為一杯飲料 (Minimum cost: one drink per guest)
 - 設施: 有 WiFi ，電源插座。
 - 備註: 自行點餐入座，跟店員說是"參加H4聚會"即可 
