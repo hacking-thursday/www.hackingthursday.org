@@ -36,13 +36,11 @@ The attendees of the gathering are both listeners and potentially lighting talk 
 | <img src="https://matrix.org/assets/favicon.svg" alt="" width="80" /> Matrix | <https://matrix.to/#/#hackingthursday:matrix.org> | <img src="/static/img/qrcode_matrix.svg" alt="" width="100" /> |
 
 
-
 | Resources | URL |
 |--|--|
 | Website | <https://www.hackingthursday.org> |
 | GitHub | <https://github.com/hacking-thursday> |
 | HackMD | <https://hackmd.io/@h4> | 
-| Meetup | <https://www.meetup.com/hackingthursday> |
 | Mailing list | <https://groups.google.com/group/hackingthursday> |
 
 
